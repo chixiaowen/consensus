@@ -9,7 +9,7 @@
 [PAXOS2](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
 
 [RAFT1](https://raft.github.io/raft.pdf)  
-中文[翻译地址](https://github.com/chixiaowen/consensus/blob/main/doc/raft-zh_cn.md)
+中文[翻译地址](https://github.com/chixiaowen/consensus/blob/main/doc/raft-zh_cn.md)  
 [RAFT2](https://web.stanford.edu/~ouster/cgi-bin/papers/OngaroPhD.pdf)
 
 [VR1](https://pmg.csail.mit.edu/papers/vr.pdf)
