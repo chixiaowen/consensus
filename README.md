@@ -5,16 +5,15 @@
 ## 经典的分布式系统共识（CFT）
 [综述](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-935.pdf)
 
-[PAXOS1](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
+[PAXOS1](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)  
 [PAXOS2](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
 
-[RAFT1](https://raft.github.io/raft.pdf)  
-中文[翻译地址](https://github.com/chixiaowen/consensus/blob/main/doc/raft-zh_cn.md)  
+[RAFT1](https://raft.github.io/raft.pdf)  中文[翻译地址](https://github.com/chixiaowen/consensus/blob/main/doc/raft-zh_cn.md)  
 [RAFT2](https://web.stanford.edu/~ouster/cgi-bin/papers/OngaroPhD.pdf)
 
-[VR1](https://pmg.csail.mit.edu/papers/vr.pdf)
+[VR1](https://pmg.csail.mit.edu/papers/vr.pdf)  
 [VR2](https://pmg.csail.mit.edu/papers/vr-revisited.pdf)
 
 ## 拜占庭问题共识（BFT）
-[PROBLEM](https://lamport.azurewebsites.net/pubs/byz.pdf)
+[PROBLEM](https://lamport.azurewebsites.net/pubs/byz.pdf)  
 [PBFT99](https://pmg.csail.mit.edu/papers/osdi99.pdf)
